@@ -132,3 +132,6 @@ i18n
 
 export default i18n;
 ```
+## 📎 출처
+- <a href="https://lemontia.tistory.com/924">[react] 다국어 처리(react-i18next) 적용하기</a>
+- <a href="https://all-dev-kang.tistory.com/entry/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EA%B8%80%EB%A1%9C%EB%B2%8C%ED%95%9C-%EC%9B%B9%EC%9D%84-%ED%96%A5%ED%95%98%EC%97%AC-react-i18n-%EB%8B%A4%EA%B5%AD%EC%96%B4%EC%A7%80%EC%9B%90">[리액트] 글로벌한 웹을 향하여 (react-i18next, 다국어지원)</a>
